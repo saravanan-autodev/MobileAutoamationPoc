@@ -1,1 +1,1 @@
-# MobileAutoamationPoc
+# MobileAutomationPoc
